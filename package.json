@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Drakx116/supwave-rework/issues"
   },
-  "homepage": "https://github.com/Drakx116/supwave-rework#readme"
+  "homepage": "https://github.com/Drakx116/supwave-rework#readme",
+  "dependencies": {
+    "concurrently": "^5.1.0"
+  }
 }
