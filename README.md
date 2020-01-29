@@ -1,2 +1,8 @@
-# supwave-rework
-NodeJS rework of my previous ASP .NET (SupWave) music web application.
+# NodeJS SetUp
+Use this template and stop wasting time.
+
+Already configured :
+
+- Concurrently on /server startup
+- Babel
+- Express instance
