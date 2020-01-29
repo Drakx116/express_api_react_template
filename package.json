@@ -1,0 +1,20 @@
+{
+  "name": "supwave-rework",
+  "version": "1.0.0",
+  "description": "NodeJS rework of my previous ASP .NET (SupWave) music web application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Drakx116/supwave-rework.git"
+  },
+  "keywords": [],
+  "author": "Drakx116",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Drakx116/supwave-rework/issues"
+  },
+  "homepage": "https://github.com/Drakx116/supwave-rework#readme"
+}
