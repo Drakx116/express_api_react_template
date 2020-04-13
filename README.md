@@ -6,6 +6,7 @@ Already configured :
 - Concurrently on /server startup
 - Babel
 - Express instance
+- Mongoose connection
 
 
 **TODO :**
