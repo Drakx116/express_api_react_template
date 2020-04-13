@@ -2,8 +2,7 @@ const ENV = require('dotenv').config().parsed;
 const express = require('express');
 
 const app = express();
-const port = 5000;
 
-app.listen(port,
+app.listen(ENV.PORT,
     () => console.log(`Server is running on ${ ENV.HOST }:${ ENV.PORT }`)
 );
